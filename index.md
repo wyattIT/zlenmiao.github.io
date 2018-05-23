@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## 2018-05-23
 
-You can use the [editor on GitHub](https://github.com/zlenmiao/zlenmiao.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+今天天气晴，但是我的心情却犹如下雨天，阴沉沉，湿漉漉。因为，昨晚S13嫩爱不陪我玩游戏，over.
 
 ### Markdown
 
